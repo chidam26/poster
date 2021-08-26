@@ -1,0 +1,36 @@
+.container {
+    background-image: url("https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages_600x600_crop_center.png?v=1619126283");
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+th {
+    font-size: 50px;
+}
+td {
+    height: 50px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: aqua;
+}
+table {
+    padding-right: 20px;
+    color: white;
+}
+.borderbottom {
+    border-bottom: 1px solid;
+}
+.align {
+    vertical-align: top;
+}
+.align1 {
+    vertical-align: bottom;
+}
+em {
+    padding-left: 20px;
+    font-size: x-large;
+}
